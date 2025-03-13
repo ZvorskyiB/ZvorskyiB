@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello there, I am Bohdan Zvorskyi
 
-<!--
-**ZvorskyiB/ZvorskyiB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find my projects, code examples, and other contributions.
 
-Here are some ideas to get you started:
+## I am Junior Data Analyst who is looking for job) And also I am going to be Data Scientist in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My current skills
+
+* **Programming Languages:**        Python(numpy, pandas, matplotlib, seaborn, scipy, sklearn)
+* **Databases:**                    SQL(PostgreSQL)
+* **BI & Visualization Tools:**     PowerBI
+
+## My pet projects
+
+* [Python pet projects](https://github.com/ZvorskyiB/Python_pet_projects)
+* [SQL pet project](https://github.com/ZvorskyiB/SQL_pet_project)
+* [PowerBI pet project](https://github.com/ZvorskyiB/PowerBI_pet_project)
+
+## Connect with me
+
+* [Linkedin](https://www.linkedin.com/in/bohdan-zvorskyi-1939ba214?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BngrddRwDSRa7FK4Gk1lVoA%3D%3D)
+* bzvorskyy@gmail.com
+
+## Thanks for Visiting!
+
+
+
