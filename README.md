@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here you'll find my projects, code examples, and o
 
 ## My pet projects
 
-* [Python pet projects](https://github.com/ZvorskyiB/Python_pet_projects)
+* [Black_Friday_Python_Pet_Project](https://github.com/ZvorskyiB/Black_Friday_Python_Pet_Project)
 * [SQL pet project](https://github.com/ZvorskyiB/SQL_pet_project)
 * [PowerBI pet project](https://github.com/ZvorskyiB/PowerBI_pet_project)
 
